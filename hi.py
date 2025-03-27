@@ -1,1 +1,1 @@
-print("Shri ram swaroop memorial university"
+print("Shri ram swaroop memorial university")
