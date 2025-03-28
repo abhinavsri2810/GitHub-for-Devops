@@ -1,5 +1,2 @@
-def greet(name):
-    print("Hello, " + name)
-
-greet(123)
+print("hello my name is abhinav srivastajionfoifoi")
 
